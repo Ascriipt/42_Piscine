@@ -1,0 +1,6 @@
+Credentials cache: API:A1BD38E9-D11B-4C82-B12E-A6365A0B5AE2
+        Principal: maparigi@42.FR
+
+  Issued                Expires               Principal
+Sep  6 10:23:02 2021  Sep 13 10:23:02 2021  krbtgt/42.FR@42.FR
+Sep  6 10:23:03 2021  Sep 13 10:23:02 2021  HTTP/student-storage-2.42.fr@42.FR
